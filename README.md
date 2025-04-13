@@ -1,6 +1,8 @@
-<div align="center">
-   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=itztinq&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="45%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itztinq&theme=vision-friendly-dark&hide_border=false&layout=compact&langs_count=8" width="40%"/>
-  </div>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 src="https://github-readme-stats.vercel.app/api?username=itztinq&show_icons=true&include_all_commits=true&theme=vision-friendly-dark">
+   </a>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=itztinq&theme=vision-friendly-dark&layout=compact">
+   </a>
 </div>
