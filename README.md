@@ -1,8 +1,8 @@
 <div align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=46% src="https://github-readme-stats-chi-five-82.vercel.app/api?username=itztinq&show_icons=true&count_private=true&include_all_commits=true&theme=vision-friendly-dark&cache_seconds=60">
-   </a>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=35% src="https://github-readme-stats-chi-five-82.vercel.app/api/top-langs/?username=itztinq&count_private=true&theme=vision-friendly-dark&layout=compact&cache_seconds=60">
-   </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/itztinq/itztinq/main/profile-summary-card-output/midnight_purple/1-repos-per-language.svg">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/itztinq/itztinq/main/profile-summary-card-output/midnight_purple/3-stats.svg">
+  </a>
 </div>
